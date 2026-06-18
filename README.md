@@ -26,7 +26,7 @@ My approach: concrete physical intuition first, formalism second. I prefer hones
 
 | Project | Description | Stack |
 |---|---|---|
-| [`research_rag`](https://github.com/atesyusufberat9-gif) | Fully local offline RAG pipeline for quantum radar literature. 4-level hierarchical taxonomy, LLM-generated descriptors, RouterQueryEngine, ~2000 paper Tier 1 corpus target | Python · Ollama · Qdrant · LlamaIndex · nomic-embed-text |
+| [`research_rag`](https://github.com/yusufberatates/research_rag) | Fully local offline RAG pipeline for quantum radar literature. 4-level hierarchical taxonomy, LLM-generated descriptors, RouterQueryEngine, ~2000 paper Tier 1 corpus target | Python · Ollama · Qdrant · LlamaIndex · nomic-embed-text |
 | Quantum Illumination Sim | QuTiP simulation of entanglement-enhanced target detection, modeling SNR advantage of TMSV states over coherent light | Python · QuTiP · matplotlib |
 | Lider Simülatörü | Political strategy simulation game set in Turkey | Flask · Leaflet.js |
 
