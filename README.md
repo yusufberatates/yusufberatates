@@ -7,13 +7,13 @@ Ankara, Turkey · from Adıyaman
 
 ## About
 
-Third-year physics student specializing in **quantum optics**, **quantum sensing**, and defense applications of quantum technologies. I build independent research tools and simulations — working without lab access using Python, QuTiP, and local AI pipelines.
+Third-year physics student specializing in **quantum optics**, **optics and photonics**, **condensed matter** and defense applications of those technologies. I build independent research tools and simulations — working without lab access using Python, QuTiP, and local AI pipelines.
 
-My approach: concrete physical intuition first, formalism second. I prefer honest uncertainty over confident gap-filling.
+My approach: concrete physical intuition first, formalism second.
 
 ---
 
-## Research Interests
+<!-- ## Research Interests
 
 - Quantum illumination & quantum radar theory
 - Quantum sensing for defense applications
@@ -44,7 +44,8 @@ My approach: concrete physical intuition first, formalism second. I prefer hones
 - Quantum illumination using Qiskit and QuTiP; IBM Quantum roadmap
 - Neutrino defense applications: passive antineutrino flux detection, atmospheric neutrino navigation via MSW effect
 - Local LLM pipeline architecture for scientific literature retrieval
-
+You can write multiple lines here.
+-->
 ---
 
 ## Honors & Awards
@@ -57,7 +58,7 @@ My approach: concrete physical intuition first, formalism second. I prefer hones
 ## Education
 
 **B.Sc. Physics** · ODTÜ (Middle East Technical University) · 2022 – Present  
-Coursework: Quantum Mechanics · Laser Applications · Condensed Matter Physics · Modern Physics Lab · Computational Physics
+Coursework: Quantum Mechanics · Laser Applications · Condensed Matter Physics · Optical System Design · Computational Physics
 
 ---
 
